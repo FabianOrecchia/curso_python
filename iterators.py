@@ -9,6 +9,7 @@
 # for i in range(1 , n+1):
 #     print(f" fibonacci {i} es {fibonacci_recursivo(i)}")
 
+#CREAMOS UN IRETADOR CON UNA CLASE, PARA RECORRER LA SERIE FIBONACCI HASTA UN MAXIMO QUE INDIQUE UN USUARIO.
 import time
 
 
