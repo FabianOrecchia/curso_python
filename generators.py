@@ -18,6 +18,7 @@
 # print(next(a))
 # print(next(a))
 
+#ACA CREAMOS UN GENERADOR PARA RECORRER LA SERIE DE FIBONACCI HASTA UN MAXIMO QUE INDIQUE UN USUARIO
 import time
 
 def fibo_gen(max=None):
