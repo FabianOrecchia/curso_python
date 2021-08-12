@@ -15,6 +15,7 @@ import time
 class fiboIter():
 
     def __init__(self, max=None):
+        #aca inicializamos cualquier metodo que tengamos que usar en un futuro, por ejemplo aca se inicializa max, para ser usado como parametro del maximo de numeros que queremos en la sucecion de fibonacci.
         self.max = max
 
     def __iter__(self):
